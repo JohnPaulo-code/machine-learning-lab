@@ -41,6 +41,6 @@ This repository demonstrates practical implementations of fundamental and advanc
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/machine-learning-lab.git
+git clone https://github.com/JohnPaulo-code/machine-learning-lab.git
 cd machine-learning-lab
 pip install -r requirements.txt

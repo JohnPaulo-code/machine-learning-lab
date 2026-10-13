@@ -15,7 +15,7 @@ Analyzed a dataset of individuals' weights and heights: computed descriptive sta
 ## Files
 | File | Description |
 |------|-------------|
-| `exercise01.ipynb` | Full analysis and plots |
+| `Paulo - 1747579 - Exercice 1.ipynb` | Full analysis and plots |
 | `data/heights_weights.csv` | Input dataset |
 
 ## Results

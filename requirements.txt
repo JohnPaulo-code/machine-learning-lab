@@ -1,0 +1,45 @@
+# ============================================================
+# Machine Learning Lab Portfolio — Requirements
+# ============================================================
+# Python 3.10+ recommended
+# Install with: pip install -r requirements.txt
+# ============================================================
+
+# --- Core Numerical & Data ---
+numpy>=1.24.0,<2.0.0
+pandas>=2.0.0,<3.0.0
+scipy>=1.11.0,<2.0.0
+
+# --- Visualization ---
+matplotlib>=3.7.0,<4.0.0
+seaborn>=0.12.0,<1.0.0
+
+# --- Machine Learning Utilities (allowed for preprocessing/metrics only) ---
+scikit-learn>=1.3.0,<2.0.0
+imbalanced-learn>=0.11.0,<1.0.0      # For SMOTE (Exercise 07)
+
+# --- Deep Learning ---
+torch>=2.1.0,<3.0.0
+torchvision>=0.16.0,<1.0.0           # Optional, for datasets/transforms
+
+# --- Jupyter / Notebooks ---
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.25.0
+ipywidgets>=8.1.0                    # For interactive plots
+
+# --- Animation & GIF Export (Exercise 01) ---
+pillow>=10.0.0                       # Required for saving .gif files
+
+# --- Utilities ---
+tqdm>=4.66.0                         # Progress bars for training loops
+
+# ============================================================
+# Notes:
+# - scikit-learn is used ONLY for: train_test_split, metrics
+#   (accuracy, F1, confusion_matrix), KNNImputer, and dataset
+#   loading (load_iris). Core algorithms are implemented from
+#   scratch with NumPy as per course requirements.
+# - imbalanced-learn is used only for SMOTE resampling
+#   (Exercise 07).
+# ============================================================

@@ -26,4 +26,4 @@ Analyzed a dataset of individuals' weights and heights: computed descriptive sta
 ## How to Run
 ```bash
 pip install -r ../requirements.txt
-jupyter notebook exercise01.ipynb
+jupyter notebook Paulo - 1747579 - Exercice 1.ipynb

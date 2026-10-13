@@ -17,7 +17,7 @@ This repository demonstrates practical implementations of fundamental and advanc
 
 | # | Topic | Key Techniques | Link |
 |---|-------|---------------|------|
-| 01 | Statistics & Visualization | Mean, std, histograms, correlation from scratch | [→](./01 statistics and visualization/) |
+| 01 | Statistics & Visualization | Mean, std, histograms, correlation from scratch | [→](01 Statistics & Visualization/) |
 | 02 | Gradient Descent Optimization | Booth function, adaptive step length | [→](./02 gradient-descent/) |
 | 03 | Linear & Logistic Regression | Newton's method, MSE, cross-entropy | [→](./03-linear-logistic-regression/) |
 | 04 | Regularization & SGD | L1/L2 regularization, AIC feature selection, K-fold CV | [→](./04-regularization-sgd/) |

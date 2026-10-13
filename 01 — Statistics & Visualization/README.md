@@ -16,7 +16,7 @@ Analyzed a dataset of individuals' weights and heights: computed descriptive sta
 | File | Description |
 |------|-------------|
 | `Paulo - 1747579 - Exercice 1.ipynb` | Full analysis and plots |
-| `data/heights_weights.csv` | Input dataset |
+| `Q1_Data.zip` | Input dataset |
 
 ## Results
 - Mean & std computed for both `weight` and `height` columns
